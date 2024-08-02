@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #080809;
+}
+.Home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+aside a {
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
